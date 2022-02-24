@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {background-color:black;font-family:arial;color:white}
 h1{color:grey; font-family:Verdana;}
 .maindiv
@@ -10,3 +11,17 @@ h1{color:grey; font-family:Verdana;}
     align:center
 }
 
+=======
+body {background-color:black;font-family:arial;color:white}
+h1{color:grey; font-family:Verdana;}
+.maindiv
+{
+    background-color:white;
+    color:black;
+    width:300px;
+    padding:20px;
+    border-radius:25px;
+    align:center
+}
+
+>>>>>>> 46092c11fdaa08687c80f1ff3a32f6c8f0e7a5b0
